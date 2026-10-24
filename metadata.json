@@ -1,0 +1,6 @@
+{
+  "name": "Minority Tech - Premium Used Ultrabook & Tech Hub",
+  "description": "Platform kurasi premium used ultrabook bergaransi dengan AI Product Match Finder, 28-point QC check, review mendalam, dan konsultasi AI real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
